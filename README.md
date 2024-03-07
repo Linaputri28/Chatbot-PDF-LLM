@@ -1,8 +1,9 @@
-# Build Your Own Chatbot
+# Build a Chatbot to Analyze PDF Documents Using LLM
 ## Author : Sina Nazeri
 --------------------------------
 
-This chatbot course provides a practical introduction that will teach you everything you need to know to plan, build, and deploy your first customer support chatbot. Leveraging the cognitive computing power of IBM Watson Assistant, you will be able to design your own chatbot without the need to write any code. You'll also learn how to quickly deploy your chatbot on WordPress-based sites. If you want to learn how to create virtual assistants — and perhaps create one for your own business — this free chatbot course is for you.
+Let's create a chatbot using Flask, LangChain and LLM that that will learn the contents of the PDF documents and will answer any questions you may have. In many organizations PDF documents contain a great deal of information. To make use of this information you have to read thousands of pages. Our chatbot will be your personal assistant powered by AI that will do the reading for you in seconds and will answer questions about what it had read.
+In this project, you'll build a chatbot using Flask, LangChain and Large Language Model (LLM), capable of uploading and interpreting PDF documents. This could be a game-changer when you need quick access to information from extensive documents. For instance, if you're working with machinery and have thousands of pages of confidential instructions, this chatbot could provide immediate access to specific information while ensuring data privacy. Or, imagine having a specialized cookbook for a particular diet. You could quickly look up recipes based on the ingredients you have on hand.
 -------------------
 # Mentee Info!
 ## Name : Lina Putri Gemilang
@@ -12,4 +13,4 @@ This chatbot course provides a practical introduction that will teach you everyt
 --------------------------------
 
 ## Skill Learn
-Artificial Intelligence, Chatbots, NLP
+Python, Generative AI, LLM, Chatbots, Flask
